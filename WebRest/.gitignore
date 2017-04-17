@@ -25,6 +25,6 @@ nbdist/
 
 ####
 *.yml1
-*.properties
+
 *.js
 *.ftl
